@@ -1,6 +1,6 @@
 
 
-[![chaochenzhang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/chaochenzhang)
+[![chaochenzhang](https://img.shields.io/badge/chaochenzhang-github-blue?logo=github)](https://github.com/chaochenzhang)
 
 He is currently a Ph.D. candidate in the School of Robotics at Hunan University.
 
