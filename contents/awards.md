@@ -1,12 +1,5 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Third Prize in the sub-track of the Intelligent Interpretation Algorithm Competition for Multimodal Remote Sensing Applications, ISPRS Commission I, 2025.
+- Fifth Place in the sub-track of the 4th Tianzhi Cup Artificial Intelligence Challenge，2024.
+- Third Prize in the Wide-area Infrared Small Target Detection Challenge, PRCV
+- Winning Prize in the 2nd Navy "Golden Dolphin" Cup Algorithm Challenge
