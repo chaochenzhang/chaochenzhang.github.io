@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![chaochenzhang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/chaochenzhang)
 
 He is currently a Ph.D. candidate in the School of Robotics at Hunan University.
 
@@ -9,8 +9,8 @@ He is currently a Ph.D. candidate in the School of Robotics at Hunan University.
 Email: chaochenzhang@hnu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Electronic Information, School of Electronic and Information Engineering, Anhui University, 2022—2025.\
+B.E., Electronic and Information Engineering, School of Electronic and Information Engineering, Anhui University, 2018—2022.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+SAR; Foundation Model; Remote Sensing
