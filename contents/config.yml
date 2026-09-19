@@ -1,4 +1,4 @@
-title: User Name's Homepage
+title: chaochenzhang's Homepage
 page-top-title: 张朝琛
 top-section-bg-text: Computer Science
 backgrounds:
@@ -9,14 +9,14 @@ background-overlay: 0.52
 copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/chaochenzhang
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/chaochenzhang/chaochenzhang.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: User Name&ensp;|&ensp;张朝琛
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
